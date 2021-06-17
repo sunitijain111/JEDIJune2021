@@ -1,6 +1,5 @@
 int main()
 {int x;
  int y;
-//new code in local
-hello this is new code in local;
-}
+//new code in local and remote
+hello this is new code in local and remote. theyahve been merged
